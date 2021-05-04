@@ -1,0 +1,19 @@
+.input {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 20px 100px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+
+  }
+
+ .input:hover {
+    transition: .5s;
+  cursor: pointer;
+  transform: scale(1.09);
+   box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  }
+  
